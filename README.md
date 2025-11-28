@@ -169,10 +169,3 @@ $ docker run -p 3000:3000 nestjs-task-management
 - [JWT Authentication](https://docs.nestjs.com/security/authentication)
 - [Passport.js](http://www.passportjs.org)
 
-## License
-
-This project is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
-
-## Author
-
-Created as part of the NestJS learning journey on Udemy.
